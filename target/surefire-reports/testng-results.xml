@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite Maven Suite" duration-ms="60" started-at="2019-03-02T06:22:57Z" finished-at="2019-03-02T06:22:57Z">
+    <groups>
+    </groups>
+    <test name="Test Maven Testing" duration-ms="60" started-at="2019-03-02T06:22:57Z" finished-at="2019-03-02T06:22:57Z">
+      <class name="com.qa.tests.DemoTest">
+        <test-method status="PASS" signature="div()[pri:0, instance:com.qa.tests.DemoTest@96532d6]" name="div" duration-ms="17" started-at="2019-03-02T11:52:57Z" finished-at="2019-03-02T11:52:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="mul()[pri:0, instance:com.qa.tests.DemoTest@96532d6]" name="mul" duration-ms="0" started-at="2019-03-02T11:52:57Z" finished-at="2019-03-02T11:52:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:com.qa.tests.DemoTest@96532d6]" name="sub" duration-ms="0" started-at="2019-03-02T11:52:57Z" finished-at="2019-03-02T11:52:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:com.qa.tests.DemoTest@96532d6]" name="sum" duration-ms="0" started-at="2019-03-02T11:52:57Z" finished-at="2019-03-02T11:52:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- com.qa.tests.DemoTest -->
+      <class name="com.qa.tests.DemoTest1">
+        <test-method status="PASS" signature="div()[pri:0, instance:com.qa.tests.DemoTest1@4411d970]" name="div" duration-ms="0" started-at="2019-03-02T11:52:57Z" finished-at="2019-03-02T11:52:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="mul()[pri:0, instance:com.qa.tests.DemoTest1@4411d970]" name="mul" duration-ms="0" started-at="2019-03-02T11:52:57Z" finished-at="2019-03-02T11:52:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:com.qa.tests.DemoTest1@4411d970]" name="sum" duration-ms="1" started-at="2019-03-02T11:52:57Z" finished-at="2019-03-02T11:52:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:com.qa.tests.DemoTest1@4411d970]" name="sub" duration-ms="0" started-at="2019-03-02T11:52:57Z" finished-at="2019-03-02T11:52:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+      </class> <!-- com.qa.tests.DemoTest1 -->
+      <class name="com.qa.tests.DemoTest2">
+        <test-method status="PASS" signature="div()[pri:0, instance:com.qa.tests.DemoTest2@6442b0a6]" name="div" duration-ms="0" started-at="2019-03-02T11:52:57Z" finished-at="2019-03-02T11:52:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="mul()[pri:0, instance:com.qa.tests.DemoTest2@6442b0a6]" name="mul" duration-ms="1" started-at="2019-03-02T11:52:57Z" finished-at="2019-03-02T11:52:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:com.qa.tests.DemoTest2@6442b0a6]" name="sub" duration-ms="0" started-at="2019-03-02T11:52:57Z" finished-at="2019-03-02T11:52:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:com.qa.tests.DemoTest2@6442b0a6]" name="sum" duration-ms="0" started-at="2019-03-02T11:52:57Z" finished-at="2019-03-02T11:52:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- com.qa.tests.DemoTest2 -->
+    </test> <!-- Test Maven Testing -->
+  </suite> <!-- Suite Maven Suite -->
+</testng-results>
