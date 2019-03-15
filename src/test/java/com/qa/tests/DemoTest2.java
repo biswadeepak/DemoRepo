@@ -36,5 +36,10 @@ public class DemoTest2 {
 		int b = 20;
 		Assert.assertEquals(200, a*b);
 	}
+	
+	@Test
+	public void LoginPage(){
+		System.out.println("This is Login Page");
+	}
 
 }
